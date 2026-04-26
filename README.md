@@ -46,5 +46,6 @@ User Interface Design: Creating an intuitive interface.
 
 This aligns with the objective of designing and implementing software solutions.
 Overall Skill Set in ePortfolioCode Review:I will demonstrate skills in writing clean, maintainable code and evaluating algorithm effectiveness.
-Narratives:I aim to articulate complex concepts clearly, discussing methodologies and design decisions, showcasing effective communication and problem-solving abilities.
+
+Narratives: I aim to articulate complex concepts clearly, discussing methodologies and design decisions, showcasing effective communication and problem-solving abilities.
 Professional Self-Assessment:My ability to articulate technical concepts and reflect on challenges will demonstrate my capacity for self-assessment and continuous improvement.

@@ -1,4 +1,4 @@
-This ePortfolio integrates the knowledge and skills I've gained throughout my years in the Computer Science program at Southern New Hampshire University. It represents my growth and professional development in the program. The ePortfolio showcases my completed projects and enhancements, demonstrating my capabilities through coherent, technically sound, and professional-quality written and visual communication tailored to a specific technical audience.
+This repository houses the projects and information for my capstone class. Including the projects I've gained throughout my years in the Computer Science program at Southern New Hampshire University. It represents my growth and professional development in the program. The ePortfolio showcases my completed projects and enhancements, demonstrating my capabilities through coherent, technically sound, and professional-quality written and visual communication tailored to a specific technical audience.
 
 **Professional Self-Assessment**
 

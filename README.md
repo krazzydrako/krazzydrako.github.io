@@ -1,51 +1,68 @@
-This ePortfolio integrates the knowledge and skills i gained througout the years i spent studying the Computer science program at Souther New hampshire University. It represents my growth in the program.  The ePortfolio was designed and developed with a professional-quality written and a visual communication demonstrative of my capacities and abilities in a coherent, technically sound, and appropriately adapted to an specific technical audience and context.
+This ePortfolio integrates the knowledge and skills I've gained throughout my years in the Computer Science program at Southern New Hampshire University. It represents my growth and professional development in the program. The ePortfolio showcases my completed projects and enhancements, demonstrating my capabilities through coherent, technically sound, and professional-quality written and visual communication tailored to a specific technical audience.
 
+**Professional Self-Assessment**
 
-**Professional Self assessment**
+**Self-IntroductionDuration in the Computer Science Program:  **
 
-Self-Introduction
-Duration in the Computer Science Program:  
-I have been in the Computer Science program for three years, specifically focusing on software engineering.Key Learnings:  
-During my time in the program, I have acquired several essential skills, including:Proficiency in coding.Techniques for error detection.Web development skills.Skills Demonstrated through Enhancements:  
-To meet course outcomes effectively, I will showcase various skills including:Critical Thinking & Problem-Solving: These are crucial for analyzing complex issues and developing practical solutions in case studies.Communication Skills: I will enhance my ability to present ideas through reports and discussions, essential for collaboration.Technical Proficiency: Mastering relevant tools and software will deepen my understanding of course content and prepare me for industry standards.Team Collaboration: Working on group projects will enhance my interpersonal skills required for multidimensional teamwork.Alignment with Career Plans:  
-As an Army recruiter, my goal is to attract and enlist qualified candidates. The skills I develop in this course will directly apply to my role, enabling me to interpret potential recruits' needs and clearly convey the benefits of military service. Additionally, the technical skills will facilitate the use of recruitment software, enhancing efficiency and effectiveness in my role.Contribution to Specialization:  
-The skills I aim to develop will significantly contribute to my specialization in Army recruitment, preparing me for future roles and ensuring I am well-equipped to meet the challenges in my career.ePortfolio SetupGitHub Pages Home Page:I will provide a screenshot of my ePortfolio GitHub Pages home page, clearly showing the URL. I already have a repository for previous projects, and my ePortfolio will reside on GitHub, linking to work from other sites, such as Bitbucket.
-Creating and Publishing on GitHub Pages:I will refer to the GitHub Pages link in the Resource section for directions on creating my GitHub website and publishing my code.
-Enhancement PlanCategory One: Software Engineering and DesignSelected Artifact:I will utilize the thermostat file from the CS-350 Emerging Systems Architectures and Technologies course.
-Enhancement Plan:The plan for the thermostat.py file includes adding features like:
+I have been enrolled in the Computer Science program for three years, focusing specifically on software engineering.Key LearningsThroughout my time in the program, I have acquired essential skills, including:Proficiency in codingTechniques for error detectionWeb development skillsSkills Demonstrated through EnhancementsTo effectively meet course outcomes, I have completed and implemented several enhancements, which include:
 
-Remote temperature monitoring.
-User notifications for temperature thresholds.
-Energy consumption tracking.
+**Critical Thinking & Problem-Solving:  **
 
-This will improve user experience and provide valuable insights into energy management.
-Skills Demonstrated & Course Outcome Alignment:The enhancements will demonstrate skills in:
+I analyzed complex issues and developed practical solutions through my projects, demonstrating my ability to evaluate and refine algorithms.
 
-Programming: Writing Python code.
-Problem-Solving: Addressing user needs through new features.
-System Design: Designing architecture for remote monitoring.
-Data Management: Implementing energy tracking.
+**Communication Skills:**  
 
-These align with course outcomes such as designing and implementing software solutions and analyzing system performance.
-Category Two: Algorithms and Data StructuresSelected Artifact:I will use the final project from CS-410.
-Enhancement Plan:The enhancement will focus on integrating an automated analysis tool to improve reverse engineering capabilities. This includes developing a module for static analysis and generating reports.
-Skills Demonstrated & Course Outcome Alignment:Skills include:
+I presented my ideas and findings through detailed reports and discussions, facilitating collaboration and organizational decision-making.
 
-Programming: Developing the analysis tool.
-Static Analysis: Analyzing binaries for vulnerabilities.
-Report Generation: Presenting findings clearly.
+**Technical Proficiency:  **
 
-This aligns with the outcome of developing a security mindset to anticipate vulnerabilities.
-Category Three: DatabasesSelected Artifact:I will use the Travlr site creation from CS-465.
-Enhancement Plan:The enhancement focuses on integrating a personalized travel recommendation feature based on user preferences.
-Skills Demonstrated & Course Outcome Alignment:Skills include:
+I mastered relevant tools and software to deepen my understanding of course content and prepare for industry standards.
 
-Programming: Writing recommendation algorithms.
-Data Analysis: Analyzing user data.
-User Interface Design: Creating an intuitive interface.
+**Team Collaboration:  **
 
-This aligns with the objective of designing and implementing software solutions.
-Overall Skill Set in ePortfolioCode Review:I will demonstrate skills in writing clean, maintainable code and evaluating algorithm effectiveness.
+I worked on group projects that enhanced my interpersonal skills, essential for effective teamwork in a professional environment.
 
-Narratives: I aim to articulate complex concepts clearly, discussing methodologies and design decisions, showcasing effective communication and problem-solving abilities.
-Professional Self-Assessment:My ability to articulate technical concepts and reflect on challenges will demonstrate my capacity for self-assessment and continuous improvement.
+Alignment with Career PlansAs an Army recruiter, my goal is to attract and enlist qualified candidates. The skills I developed in this program directly apply to my role, enabling me to interpret potential recruits' needs and clearly convey the benefits of military service. The technical skills I acquired also facilitate the effective use of recruitment software, enhancing efficiency in my role.Contribution to SpecializationThe skills I developed through completed enhancements significantly contribute to my specialization in Army recruitment, preparing me for future roles and ensuring I am well-equipped to meet the challenges in my career.ePortfolio 
+
+**Setup GitHub Pages Home Page: ** 
+
+I will provide a screenshot of my ePortfolio GitHub Pages home page, clearly showing the URL. My ePortfolio resides on GitHub, linking directly to completed projects that demonstrate my work and skills, rather than being a collection of course documents.
+
+**Creating and Publishing on GitHub Pages:  **
+
+I will include a link in the Resource section to guide readers on how to create and publish a GitHub website showcasing my completed projects.Enhancement Plans and Completed WorkCategory One: 
+
+**Software Engineering and Design**
+
+**Selected Artifact:  **
+
+Thermostat file from the CS-350 Emerging Systems Architectures and Technologies course.Completed Enhancement:  Implemented features including:
+Remote temperature monitoring
+User notifications for temperature thresholds
+Energy consumption tracking
+
+**Post-Implementation Reflection: ** 
+
+These enhancements led to improved user experience and provided valuable insights into energy management. I evaluated the effectiveness of my solutions through user feedback and testing, demonstrating my programming and problem-solving skills.Category Two: Algorithms and Data StructuresSelected Artifact:  
+
+**Final project from CS-410.Completed Enhancement:  **
+
+Developed an automated analysis tool to improve reverse engineering capabilities.Post-Implementation Reflection:  
+By integrating a module for static analysis, I was able to analyze binaries for vulnerabilities effectively. This experience reinforced my understanding of security considerations in software design, aligning with the program's outcome of developing a security mindset.
+
+**Category Three: Databases Selected **
+
+**Artifact: ** 
+
+**Travlr site creation from CS-465.Completed Enhancement:**  
+
+Integrated a personalized travel recommendation feature based on user preferences.
+
+**Post-Implementation Reflection: ** 
+
+This enhancement involved writing recommendation algorithms and analyzing user data. The resulting user interface was intuitive and aligned with the objective of designing and implementing software solutions. I evaluated the effectiveness of my design based on user engagement metrics and feedback.Overall Skill Set in ePortfolioCode Review:I demonstrated skills in writing clean, maintainable code and evaluating algorithm effectiveness based on real-world applications.
+Narratives:I articulated complex concepts clearly, discussing my methodologies and design decisions, which showcased my effective communication and problem-solving abilities.
+
+**Professional Self-Assessment**:
+
+My reflections on the challenges faced and the solutions implemented illustrate my capacity for self-assessment and continuous improvement.

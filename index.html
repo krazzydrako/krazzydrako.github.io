@@ -92,21 +92,6 @@
             font-size: 0.9rem;
         }
 
-        .progress-bar {
-            background: #e0e0e0;
-            height: 8px;
-            border-radius: 4px;
-            margin-top: 0.5rem;
-            overflow: hidden;
-        }
-
-        .progress {
-            background: linear-gradient(90deg, #667eea, #764ba2);
-            height: 100%;
-            border-radius: 4px;
-            transition: width 0.3s ease;
-        }
-
         .projects-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -144,21 +129,6 @@
         .project-body p {
             color: #666;
             margin-bottom: 1rem;
-        }
-
-        .technologies {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
-
-        .tech-tag {
-            background: #e0e7ff;
-            color: #667eea;
-            padding: 0.3rem 0.8rem;
-            border-radius: 20px;
-            font-size: 0.85rem;
-            font-weight: 500;
         }
 
         footer {
@@ -216,24 +186,68 @@
         <!-- About Section -->
         <section id="about">
             <h2>About Me</h2>
-            <p>I have a 20+ year career in the U.S. Army. I Have been a recruiter for the past few years. I am married and have 2 children. I have a love for technology.</p>
+            <p>I have a 20+ year career in the U.S. Army. I have been a recruiter for the past few years, married with two children, and have a love for technology.</p>
         </section>
 
-       
+        <!-- Skills Section -->
+        <section id="skills">
+            <h2>Skills</h2>
+            <div class="skills-container">
+                <div class="skill-card">
+                    <h3>Python</h3>
+                    <p>Proficient in Python programming for various applications.</p>
+                </div>
+                <div class="skill-card">
+                    <h3>C++</h3>
+                    <p>Experienced in C++ for performance-critical applications.</p>
+                </div>
+                <div class="skill-card">
+                    <h3>Web Development</h3>
+                    <p>Skilled in HTML, CSS, and JavaScript for front-end development.</p>
+                </div>
+                <div class="skill-card">
+                    <h3>Data Analysis</h3>
+                    <p>Utilizing libraries like Pandas and NumPy for data manipulation.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3>Thermostat Application</h3>
+                    </div>
+                    <div class="project-body">
+                        <p>A smart thermostat application with remote monitoring and notifications.</p>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3>Travlr Recommendation System</h3>
+                    </div>
+                    <div class="project-body">
+                        <p>A travel recommendation system that offers personalized suggestions.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- Contact Section -->
         <section id="contact">
             <h2>Get In Touch</h2>
             <p>I'm always interested in hearing about new projects and opportunities. Feel free to reach out!</p>
-            <div class="social-links">
+            <nav class="social-links">
                 <a href="https://github.com/krazzydrako" target="_blank">GitHub</a>
                 <a href="mailto:david.bortz@snhu.edu">Email</a>
-            </div>
+            </nav>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 krazzydrako. All rights reserved.</p>
+        <p>© 2026 krazzydrako. All rights reserved.</p>
         <p>Crafted with passion and code</p>
     </footer>
 </body>
